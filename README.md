@@ -2,4 +2,6 @@
 
 Courses
 
-[![Figma](https://shields.io)](https://figma.com)
+<a href="https://figma.com">
+  <img src="https://shields.io" alt="Figma">
+</a>
